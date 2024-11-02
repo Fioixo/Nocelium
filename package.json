@@ -1,12 +1,12 @@
 {
     "name": "nocelium",
     "preductname": "Nocelium",
-    "version": "1.0.0",
+    "version": "2.0.7",
     "description": "Launcher Mincraft pour le serveur Nocelium",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, Fioixo Inc.",
-        "email": "contact@Fioixo.fr",
+        "email": "contact@Luuxis.fr",
         "url": "https://github.com/luuxis"
     },
     "url": "https://nocelium-dev.wstr.fr",
